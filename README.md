@@ -6,7 +6,7 @@
 
 ## 第1章  OpenCV 入门
 
-[笔记](./note/01OpenCV 入门.md)
+[笔记](./note/01OpenCV入门.md)
 
 ## 第2章  图像处理基础
 
